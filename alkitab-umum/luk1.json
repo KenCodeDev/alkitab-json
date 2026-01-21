@@ -1,0 +1,331 @@
+{
+  "kitab": {
+    "judul": "Lukas 1:1-80",
+    "nama": "Lukas",
+    "no_kitab": "42",
+    "pasal": "1",
+    "judul_pasal": "Pendahuluan",
+    "ayat_ayat": [
+      {
+        "ayat": "1",
+        "isi": "Teofilus yang mulia, Banyak orang telah berusaha menyusun suatu berita tentang peristiwa-peristiwa yang telah terjadi di antara kita,"
+      },
+      {
+        "ayat": "2",
+        "isi": "seperti yang disampaikan kepada kita oleh mereka, yang dari semula adalah saksi mata dan pelayan Firman."
+      },
+      {
+        "ayat": "3",
+        "isi": "Karena itu, setelah aku menyelidiki segala peristiwa itu dengan seksama dari asal mulanya, aku mengambil keputusan untuk membukukannya dengan teratur bagimu,"
+      },
+      {
+        "ayat": "4",
+        "isi": "supaya engkau dapat mengetahui, bahwa segala sesuatu yang diajarkan kepadamu sungguh benar."
+      },
+      {
+        "ayat": "5",
+        "isi": "Pada zaman Herodes, raja Yudea, adalah seorang imam yang bernama Zakharia dari rombongan Abia. Isterinya juga berasal dari keturunan Harun, namanya Elisabet."
+      },
+      {
+        "ayat": "6",
+        "isi": "Keduanya adalah benar di hadapan Allah dan hidup menurut segala perintah dan ketetapan Tuhan dengan tidak bercacat."
+      },
+      {
+        "ayat": "7",
+        "isi": "Tetapi mereka tidak mempunyai anak, sebab Elisabet mandul dan keduanya telah lanjut umurnya."
+      },
+      {
+        "ayat": "8",
+        "isi": "Pada suatu kali, waktu tiba giliran rombongannya, Zakharia melakukan tugas keimaman di hadapan Tuhan."
+      },
+      {
+        "ayat": "9",
+        "isi": "Sebab ketika diundi, sebagaimana lazimnya, untuk menentukan imam yang bertugas, dialah yang ditunjuk untuk masuk ke dalam Bait Suci dan membakar ukupan di situ."
+      },
+      {
+        "ayat": "10",
+        "isi": "Sementara itu seluruh umat berkumpul di luar dan sembahyang. Waktu itu adalah waktu pembakaran ukupan."
+      },
+      {
+        "ayat": "11",
+        "isi": "Maka tampaklah kepada Zakharia seorang malaikat Tuhan berdiri di sebelah kanan mezbah pembakaran ukupan."
+      },
+      {
+        "ayat": "12",
+        "isi": "Melihat hal itu ia terkejut dan menjadi takut."
+      },
+      {
+        "ayat": "13",
+        "isi": "Tetapi malaikat itu berkata kepadanya: \"Jangan takut, hai Zakharia, sebab doamu telah dikabulkan dan Elisabet, isterimu, akan melahirkan seorang anak laki-laki bagimu dan haruslah engkau menamai dia Yohanes."
+      },
+      {
+        "ayat": "14",
+        "isi": "Engkau akan bersukacita dan bergembira, bahkan banyak orang akan bersukacita atas kelahirannya itu."
+      },
+      {
+        "ayat": "15",
+        "isi": "Sebab ia akan besar di hadapan Tuhan dan ia tidak akan minum anggur atau minuman keras dan ia akan penuh dengan Roh Kudus mulai dari rahim ibunya;"
+      },
+      {
+        "ayat": "16",
+        "isi": "ia akan membuat banyak orang Israel berbalik kepada Tuhan, Allah mereka,"
+      },
+      {
+        "ayat": "17",
+        "isi": "dan ia akan berjalan mendahului Tuhan dalam roh dan kuasa Elia untuk membuat hati bapa-bapa berbalik kepada anak-anaknya dan hati orang-orang durhaka kepada pikiran orang-orang benar dan dengan demikian menyiapkan bagi Tuhan suatu umat yang layak bagi-Nya.\""
+      },
+      {
+        "ayat": "18",
+        "isi": "Lalu kata Zakharia kepada malaikat itu: \"Bagaimanakah aku tahu, bahwa hal ini akan terjadi? Sebab aku sudah tua dan isteriku sudah lanjut umurnya.\""
+      },
+      {
+        "ayat": "19",
+        "isi": "Jawab malaikat itu kepadanya: \"Akulah Gabriel yang melayani Allah dan aku telah diutus untuk berbicara dengan engkau dan untuk menyampaikan kabar baik ini kepadamu."
+      },
+      {
+        "ayat": "20",
+        "isi": "Sesungguhnya engkau akan menjadi bisu dan tidak dapat berkata-kata sampai kepada hari, di mana semuanya ini terjadi, karena engkau tidak percaya akan perkataanku yang akan nyata kebenarannya pada waktunya.\""
+      },
+      {
+        "ayat": "21",
+        "isi": "Sementara itu orang banyak menanti-nantikan Zakharia. Mereka menjadi heran, bahwa ia begitu lama berada dalam Bait Suci."
+      },
+      {
+        "ayat": "22",
+        "isi": "Ketika ia keluar, ia tidak dapat berkata-kata kepada mereka dan mengertilah mereka, bahwa ia telah melihat suatu penglihatan di dalam Bait Suci. Lalu ia memberi isyarat kepada mereka, sebab ia tetap bisu."
+      },
+      {
+        "ayat": "23",
+        "isi": "Ketika selesai jangka waktu tugas jabatannya, ia pulang ke rumah."
+      },
+      {
+        "ayat": "24",
+        "isi": "Beberapa lama kemudian Elisabet, isterinya, mengandung dan selama lima bulan ia tidak menampakkan diri, katanya:"
+      },
+      {
+        "ayat": "25",
+        "isi": "\"Inilah suatu perbuatan Tuhan bagiku, dan sekarang Ia berkenan menghapuskan aibku di depan orang.\""
+      },
+      {
+        "ayat": "26",
+        "isi": "Dalam bulan yang keenam Allah menyuruh malaikat Gabriel pergi ke sebuah kota di Galilea bernama Nazaret,"
+      },
+      {
+        "ayat": "27",
+        "isi": "kepada seorang perawan yang bertunangan dengan seorang bernama Yusuf dari keluarga Daud; nama perawan itu Maria."
+      },
+      {
+        "ayat": "28",
+        "isi": "Ketika malaikat itu masuk ke rumah Maria, ia berkata: \"Salam, hai engkau yang dikaruniai, Tuhan menyertai engkau.\""
+      },
+      {
+        "ayat": "29",
+        "isi": "Maria terkejut mendengar perkataan itu, lalu bertanya di dalam hatinya, apakah arti salam itu."
+      },
+      {
+        "ayat": "30",
+        "isi": "Kata malaikat itu kepadanya: \"Jangan takut, hai Maria, sebab engkau beroleh kasih karunia di hadapan Allah."
+      },
+      {
+        "ayat": "31",
+        "isi": "Sesungguhnya engkau akan mengandung dan akan melahirkan seorang anak laki-laki dan hendaklah engkau menamai Dia Yesus."
+      },
+      {
+        "ayat": "32",
+        "isi": "Ia akan menjadi besar dan akan disebut Anak Allah Yang Mahatinggi. Dan Tuhan Allah akan mengaruniakan kepada-Nya takhta Daud, bapa leluhur-Nya,"
+      },
+      {
+        "ayat": "33",
+        "isi": "dan Ia akan menjadi raja atas kaum keturunan Yakub sampai selama-lamanya dan Kerajaan-Nya tidak akan berkesudahan.\""
+      },
+      {
+        "ayat": "34",
+        "isi": "Kata Maria kepada malaikat itu: \"Bagaimana hal itu mungkin terjadi, karena aku belum bersuami?\""
+      },
+      {
+        "ayat": "35",
+        "isi": "Jawab malaikat itu kepadanya: \"Roh Kudus akan turun atasmu dan kuasa Allah Yang Mahatinggi akan menaungi engkau; sebab itu anak yang akan kaulahirkan itu akan disebut kudus, Anak Allah."
+      },
+      {
+        "ayat": "36",
+        "isi": "Dan sesungguhnya, Elisabet, sanakmu itu, iapun sedang mengandung seorang anak laki-laki pada hari tuanya dan inilah bulan yang keenam bagi dia, yang disebut mandul itu."
+      },
+      {
+        "ayat": "37",
+        "isi": "Sebab bagi Allah tidak ada yang mustahil.\""
+      },
+      {
+        "ayat": "38",
+        "isi": "Kata Maria: \"Sesungguhnya aku ini adalah hamba Tuhan; jadilah padaku menurut perkataanmu itu.\" Lalu malaikat itu meninggalkan dia."
+      },
+      {
+        "ayat": "39",
+        "isi": "Beberapa waktu kemudian berangkatlah Maria dan langsung berjalan ke pegunungan menuju sebuah kota di Yehuda."
+      },
+      {
+        "ayat": "40",
+        "isi": "Di situ ia masuk ke rumah Zakharia dan memberi salam kepada Elisabet."
+      },
+      {
+        "ayat": "41",
+        "isi": "Dan ketika Elisabet mendengar salam Maria, melonjaklah anak yang di dalam rahimnya dan Elisabetpun penuh dengan Roh Kudus,"
+      },
+      {
+        "ayat": "42",
+        "isi": "lalu berseru dengan suara nyaring: \"Diberkatilah engkau di antara semua perempuan dan diberkatilah buah rahimmu."
+      },
+      {
+        "ayat": "43",
+        "isi": "Siapakah aku ini sampai ibu Tuhanku datang mengunjungi aku?"
+      },
+      {
+        "ayat": "44",
+        "isi": "Sebab sesungguhnya, ketika salammu sampai kepada telingaku, anak yang di dalam rahimku melonjak kegirangan."
+      },
+      {
+        "ayat": "45",
+        "isi": "Dan berbahagialah ia, yang telah percaya, sebab apa yang dikatakan kepadanya dari Tuhan, akan terlaksana.\""
+      },
+      {
+        "ayat": "46",
+        "isi": "Lalu kata Maria: \"Jiwaku memuliakan Tuhan,"
+      },
+      {
+        "ayat": "47",
+        "isi": "dan hatiku bergembira karena Allah, Juruselamatku,"
+      },
+      {
+        "ayat": "48",
+        "isi": "sebab Ia telah memperhatikan kerendahan hamba-Nya. Sesungguhnya, mulai dari sekarang segala keturunan akan menyebut aku berbahagia,"
+      },
+      {
+        "ayat": "49",
+        "isi": "karena Yang Mahakuasa telah melakukan perbuatan-perbuatan besar kepadaku dan nama-Nya adalah kudus."
+      },
+      {
+        "ayat": "50",
+        "isi": "Dan rahmat-Nya turun-temurun atas orang yang takut akan Dia."
+      },
+      {
+        "ayat": "51",
+        "isi": "Ia memperlihatkan kuasa-Nya dengan perbuatan tangan-Nya dan mencerai-beraikan orang-orang yang congkak hatinya;"
+      },
+      {
+        "ayat": "52",
+        "isi": "Ia menurunkan orang-orang yang berkuasa dari takhtanya dan meninggikan orang-orang yang rendah;"
+      },
+      {
+        "ayat": "53",
+        "isi": "Ia melimpahkan segala yang baik kepada orang yang lapar, dan menyuruh orang yang kaya pergi dengan tangan hampa;"
+      },
+      {
+        "ayat": "54",
+        "isi": "Ia menolong Israel, hamba-Nya, karena Ia mengingat rahmat-Nya,"
+      },
+      {
+        "ayat": "55",
+        "isi": "seperti yang dijanjikan-Nya kepada nenek moyang kita, kepada Abraham dan keturunannya untuk selama-lamanya.\""
+      },
+      {
+        "ayat": "56",
+        "isi": "Dan Maria tinggal kira-kira tiga bulan lamanya bersama dengan Elisabet, lalu pulang kembali ke rumahnya."
+      },
+      {
+        "ayat": "57",
+        "isi": "Kemudian genaplah bulannya bagi Elisabet untuk bersalin dan iapun melahirkan seorang anak laki-laki."
+      },
+      {
+        "ayat": "58",
+        "isi": "Ketika tetangga-tetangganya serta sanak saudaranya mendengar, bahwa Tuhan telah menunjukkan rahmat-Nya yang begitu besar kepadanya, bersukacitalah mereka bersama-sama dengan dia."
+      },
+      {
+        "ayat": "59",
+        "isi": "Maka datanglah mereka pada hari yang kedelapan untuk menyunatkan anak itu dan mereka hendak menamai dia Zakharia menurut nama bapanya,"
+      },
+      {
+        "ayat": "60",
+        "isi": "tetapi ibunya berkata: \"Jangan, ia harus dinamai Yohanes.\""
+      },
+      {
+        "ayat": "61",
+        "isi": "Kata mereka kepadanya: \"Tidak ada di antara sanak saudaramu yang bernama demikian.\""
+      },
+      {
+        "ayat": "62",
+        "isi": "Lalu mereka memberi isyarat kepada bapanya untuk bertanya nama apa yang hendak diberikannya kepada anaknya itu."
+      },
+      {
+        "ayat": "63",
+        "isi": "Ia meminta batu tulis, lalu menuliskan kata-kata ini: \"Namanya adalah Yohanes.\" Dan merekapun heran semuanya."
+      },
+      {
+        "ayat": "64",
+        "isi": "Dan seketika itu juga terbukalah mulutnya dan terlepaslah lidahnya, lalu ia berkata-kata dan memuji Allah."
+      },
+      {
+        "ayat": "65",
+        "isi": "Maka ketakutanlah semua orang yang tinggal di sekitarnya, dan segala peristiwa itu menjadi buah tutur di seluruh pegunungan Yudea."
+      },
+      {
+        "ayat": "66",
+        "isi": "Dan semua orang, yang mendengarnya, merenungkannya dan berkata: \"Menjadi apakah anak ini nanti?\" Sebab tangan Tuhan menyertai dia."
+      },
+      {
+        "ayat": "67",
+        "isi": "Dan Zakharia, ayahnya, penuh dengan Roh Kudus, lalu bernubuat, katanya:"
+      },
+      {
+        "ayat": "68",
+        "isi": "\"Terpujilah Tuhan, Allah Israel, sebab Ia melawat umat-Nya dan membawa kelepasan baginya,"
+      },
+      {
+        "ayat": "69",
+        "isi": "Ia menumbuhkan sebuah tanduk keselamatan bagi kita di dalam keturunan Daud, hamba-Nya itu,"
+      },
+      {
+        "ayat": "70",
+        "isi": "--seperti yang telah difirmankan-Nya sejak purbakala oleh mulut nabi-nabi-Nya yang kudus--"
+      },
+      {
+        "ayat": "71",
+        "isi": "untuk melepaskan kita dari musuh-musuh kita dan dari tangan semua orang yang membenci kita,"
+      },
+      {
+        "ayat": "72",
+        "isi": "untuk menunjukkan rahmat-Nya kepada nenek moyang kita dan mengingat akan perjanjian-Nya yang kudus,"
+      },
+      {
+        "ayat": "73",
+        "isi": "yaitu sumpah yang diucapkan-Nya kepada Abraham, bapa leluhur kita, bahwa Ia mengaruniai kita,"
+      },
+      {
+        "ayat": "74",
+        "isi": "supaya kita, terlepas dari tangan musuh, dapat beribadah kepada-Nya tanpa takut,"
+      },
+      {
+        "ayat": "75",
+        "isi": "dalam kekudusan dan kebenaran di hadapan-Nya seumur hidup kita."
+      },
+      {
+        "ayat": "76",
+        "isi": "Dan engkau, hai anakku, akan disebut nabi Allah Yang Mahatinggi; karena engkau akan berjalan mendahului Tuhan untuk mempersiapkan jalan bagi-Nya,"
+      },
+      {
+        "ayat": "77",
+        "isi": "untuk memberikan kepada umat-Nya pengertian akan keselamatan yang berdasarkan pengampunan dosa-dosa mereka,"
+      },
+      {
+        "ayat": "78",
+        "isi": "oleh rahmat dan belas kasihan dari Allah kita, dengan mana Ia akan melawat kita, Surya pagi dari tempat yang tinggi,"
+      },
+      {
+        "ayat": "79",
+        "isi": "untuk menyinari mereka yang diam dalam kegelapan dan dalam naungan maut untuk mengarahkan kaki kita kepada jalan damai sejahtera.\""
+      },
+      {
+        "ayat": "80",
+        "isi": "Adapun anak itu bertambah besar dan makin kuat rohnya. Dan ia tinggal di padang gurun sampai kepada hari ia harus menampakkan diri kepada Israel."
+      }
+    ]
+  }
+}
