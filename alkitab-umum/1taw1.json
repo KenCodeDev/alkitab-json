@@ -1,0 +1,227 @@
+{
+  "kitab": {
+    "judul": "1 Tawarikh 1:1-54",
+    "nama": "1 Tawarikh",
+    "no_kitab": "13",
+    "pasal": "1",
+    "judul_pasal": "Daftar keturunan Adam sampai Abraham",
+    "ayat_ayat": [
+      {
+        "ayat": "1",
+        "isi": "Adam, Set, Enos,"
+      },
+      {
+        "ayat": "2",
+        "isi": "Kenan, Mahalaleel, Yared,"
+      },
+      {
+        "ayat": "3",
+        "isi": "Henokh, Metusalah, Lamekh,"
+      },
+      {
+        "ayat": "4",
+        "isi": "Nuh, Sem, Ham dan Yafet."
+      },
+      {
+        "ayat": "5",
+        "isi": "Keturunan Yafet ialah Gomer, Magog, Madai, Yawan, Tubal, Mesekh dan Tiras."
+      },
+      {
+        "ayat": "6",
+        "isi": "Keturunan Gomer ialah Askenas, Difat dan Togarma."
+      },
+      {
+        "ayat": "7",
+        "isi": "Keturunan Yawan ialah Elisa, Tarsis, orang Kitim dan orang Rodanim."
+      },
+      {
+        "ayat": "8",
+        "isi": "Keturunan Ham ialah Kush, Misraim, Put dan Kanaan."
+      },
+      {
+        "ayat": "9",
+        "isi": "Keturunan Kush ialah Seba, Hawila, Sabta, Raema dan Sabtekha; keturunan Raema ialah Syeba dan Dedan."
+      },
+      {
+        "ayat": "10",
+        "isi": "Kush memperanakkan Nimrod; dialah orang yang mula-mula sekali berkuasa di bumi."
+      },
+      {
+        "ayat": "11",
+        "isi": "Misraim memperanakkan orang Ludim, orang Anamim, orang Lehabim, orang Naftuhim,"
+      },
+      {
+        "ayat": "12",
+        "isi": "orang Patrusim, orang Kasluhim--dari mereka inilah berasal orang Filistin--dan orang Kaftorim."
+      },
+      {
+        "ayat": "13",
+        "isi": "Kanaan memperanakkan Sidon, anak sulungnya dan Het,"
+      },
+      {
+        "ayat": "14",
+        "isi": "serta orang Yebusi, orang Amori, orang Girgasi,"
+      },
+      {
+        "ayat": "15",
+        "isi": "orang Hewi, orang Arki, orang Sini,"
+      },
+      {
+        "ayat": "16",
+        "isi": "orang Arwadi, orang Semari dan orang Hamati."
+      },
+      {
+        "ayat": "17",
+        "isi": "Keturunan Sem ialah Elam, Asyur, Arpakhsad, Lud, Aram, Us, Hul, Geter dan Mesekh."
+      },
+      {
+        "ayat": "18",
+        "isi": "Arpakhsad memperanakkan Selah, dan Selah memperanakkan Eber."
+      },
+      {
+        "ayat": "19",
+        "isi": "Bagi Eber lahir dua anak laki-laki; nama yang seorang ialah Peleg, sebab dalam zamannya penduduk bumi terbagi, dan nama adiknya ialah Yoktan."
+      },
+      {
+        "ayat": "20",
+        "isi": "Yoktan memperanakkan Almodad, Selef, Hazar-Mawet, Yerah,"
+      },
+      {
+        "ayat": "21",
+        "isi": "Hadoram, Uzal, Dikla,"
+      },
+      {
+        "ayat": "22",
+        "isi": "Ebal, Abimael, Syeba,"
+      },
+      {
+        "ayat": "23",
+        "isi": "Ofir, Hawila dan Yobab; itulah semuanya anak-anak Yoktan."
+      },
+      {
+        "ayat": "24",
+        "isi": "Sem, Arpakhsad, Selah,"
+      },
+      {
+        "ayat": "25",
+        "isi": "Eber, Peleg, Rehu,"
+      },
+      {
+        "ayat": "26",
+        "isi": "Serug, Nahor, Terah,"
+      },
+      {
+        "ayat": "27",
+        "isi": "Abram, itulah Abraham."
+      },
+      {
+        "ayat": "28",
+        "isi": "Anak-anak Abraham ialah Ishak dan Ismael."
+      },
+      {
+        "ayat": "29",
+        "isi": "Inilah keturunan mereka: anak sulung Ismael ialah Nebayot, lalu Kedar, Adbeel, Mibsam,"
+      },
+      {
+        "ayat": "30",
+        "isi": "Misyma, Duma, Masa, Hadad, Tema,"
+      },
+      {
+        "ayat": "31",
+        "isi": "Yetur, Nafish dan Kedma; mereka itulah anak-anak Ismael."
+      },
+      {
+        "ayat": "32",
+        "isi": "Keturunan Ketura, gundik Abraham: perempuan itu melahirkan Zimran, Yoksan, Medan, Midian, Isybak dan Suah. Anak-anak Yoksan ialah Syeba dan Dedan."
+      },
+      {
+        "ayat": "33",
+        "isi": "Anak-anak Midian ialah: Efa, Efer, Hanokh, Abida dan Eldaa. Itulah semuanya keturunan Ketura."
+      },
+      {
+        "ayat": "34",
+        "isi": "Abraham memperanakkan Ishak. Anak-anak Ishak ialah Esau dan Israel."
+      },
+      {
+        "ayat": "35",
+        "isi": "Anak-anak Esau ialah Elifas, Rehuel, Yeush, Yaelam dan Korah."
+      },
+      {
+        "ayat": "36",
+        "isi": "Anak-anak Elifas ialah Teman, Omar, Zefi, Gaetam, Kenas, Timna dan Amalek."
+      },
+      {
+        "ayat": "37",
+        "isi": "Anak-anak Rehuel ialah Nahat, Zerah, Syama dan Miza."
+      },
+      {
+        "ayat": "38",
+        "isi": "Anak-anak Seir ialah Lotan, Syobal, Zibeon, Ana, Disyon, Ezer dan Disyan."
+      },
+      {
+        "ayat": "39",
+        "isi": "Anak-anak Lotan ialah Hori dan Homam; adik perempuan Lotan ialah Timna."
+      },
+      {
+        "ayat": "40",
+        "isi": "Anak-anak Syobal ialah Alyan, Manahat, Ebal, Syefi dan Onam; anak-anak Zibeon ialah Aya dan Ana."
+      },
+      {
+        "ayat": "41",
+        "isi": "Keturunan Ana ialah Disyon; anak-anak Disyon ialah Hamran, Esyban, Yitran dan Keran."
+      },
+      {
+        "ayat": "42",
+        "isi": "Anak-anak Ezer ialah Bilhan, Zaawan dan Yaakan. Anak-anak Disyan ialah Us dan Aran."
+      },
+      {
+        "ayat": "43",
+        "isi": "Inilah raja-raja yang memerintah di tanah Edom, sebelum seorang raja dari orang Israel memerintah: Bela bin Beor, dan kotanya bernama Dinhaba."
+      },
+      {
+        "ayat": "44",
+        "isi": "Setelah Bela mati, Yobab bin Zerah, dari Bozra, menjadi raja menggantikan dia."
+      },
+      {
+        "ayat": "45",
+        "isi": "Setelah Yobab mati, Husyam, dari negeri orang Teman, menjadi raja menggantikan dia."
+      },
+      {
+        "ayat": "46",
+        "isi": "Setelah Husyam mati, Hadad bin Bedad menjadi raja menggantikan dia; dialah yang memukul kalah orang Midian di daerah Moab, dan kotanya bernama Awit."
+      },
+      {
+        "ayat": "47",
+        "isi": "Setelah Hadad mati, Samla, dari Masyreka menjadi raja menggantikan dia."
+      },
+      {
+        "ayat": "48",
+        "isi": "Setelah Samla mati, Saul, dari Rehobot-Sungai, menjadi raja menggantikan dia."
+      },
+      {
+        "ayat": "49",
+        "isi": "Setelah Saul mati, Baal-Hanan bin Akhbor menjadi raja menggantikan dia."
+      },
+      {
+        "ayat": "50",
+        "isi": "Setelah Baal-Hanan mati, Hadad menjadi raja menggantikan dia, dan kotanya bernama Pahi dan isterinya bernama Mehetabeel binti Matred binti Mezahab."
+      },
+      {
+        "ayat": "51",
+        "isi": "Setelah Hadad mati, maka yang menjadi kepala-kepala kaum di Edom ialah kepala kaum Timna, kepala kaum Alya, kepala kaum Yetet,"
+      },
+      {
+        "ayat": "52",
+        "isi": "kepala kaum Oholibama, kepala kaum Ela, kepala kaum Pinon,"
+      },
+      {
+        "ayat": "53",
+        "isi": "kepala kaum Kenas, kepala kaum Teman, kepala kaum Mibzar,"
+      },
+      {
+        "ayat": "54",
+        "isi": "kepala kaum Magdiel dan kepala kaum Iram. Itulah kepala-kepala kaum di Edom."
+      }
+    ]
+  }
+}
