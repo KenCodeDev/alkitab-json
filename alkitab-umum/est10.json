@@ -1,0 +1,23 @@
+{
+  "kitab": {
+    "judul": "Ester 10:1-3",
+    "nama": "Ester",
+    "no_kitab": "17",
+    "pasal": "10",
+    "judul_pasal": "Kebesaran Mordekhai",
+    "ayat_ayat": [
+      {
+        "ayat": "1",
+        "isi": "Maka raja Ahasyweros mengenakan upeti atas negeri dan daerah-daerah pesisir juga."
+      },
+      {
+        "ayat": "2",
+        "isi": "Segala perbuatannya yang hebat serta gagah dan pemberitaan yang seksama tentang kebesaran yang dikaruniakan raja kepada Mordekhai, bukankah semuanya itu tertulis di dalam kitab sejarah raja-raja Media dan Persia?"
+      },
+      {
+        "ayat": "3",
+        "isi": "Karena Mordekhai, orang Yahudi itu, menjadi orang kedua di bawah raja Ahasyweros, dan ia dihormati oleh orang Yahudi serta disukai oleh banyak sanak saudaranya, sebab ia mengikhtiarkan yang baik bagi bangsanya dan berbicara untuk keselamatan bagi semua orang sebangsanya."
+      }
+    ]
+  }
+}

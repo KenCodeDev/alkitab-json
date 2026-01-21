@@ -1,0 +1,31 @@
+{
+  "kitab": {
+    "judul": "Mazmur 15:1-5",
+    "nama": "Mazmur",
+    "no_kitab": "19",
+    "pasal": "15",
+    "judul_pasal": "Siapa yang boleh datang kepada TUHAN?",
+    "ayat_ayat": [
+      {
+        "ayat": "1",
+        "isi": "Mazmur Daud. TUHAN, siapa yang boleh menumpang dalam kemah-Mu? Siapa yang boleh diam di gunung-Mu yang kudus?"
+      },
+      {
+        "ayat": "2",
+        "isi": "Yaitu dia yang berlaku tidak bercela, yang melakukan apa yang adil dan yang mengatakan kebenaran dengan segenap hatinya,"
+      },
+      {
+        "ayat": "3",
+        "isi": "yang tidak menyebarkan fitnah dengan lidahnya, yang tidak berbuat jahat terhadap temannya dan yang tidak menimpakan cela kepada tetangganya;"
+      },
+      {
+        "ayat": "4",
+        "isi": "yang memandang hina orang yang tersingkir, tetapi memuliakan orang yang takut akan TUHAN; yang berpegang pada sumpah, walaupun rugi;"
+      },
+      {
+        "ayat": "5",
+        "isi": "yang tidak meminjamkan uangnya dengan makan riba dan tidak menerima suap melawan orang yang tak bersalah. Siapa yang berlaku demikian, tidak akan goyah selama-lamanya."
+      }
+    ]
+  }
+}
