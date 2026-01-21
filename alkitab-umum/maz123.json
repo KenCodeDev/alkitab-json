@@ -1,0 +1,27 @@
+{
+  "kitab": {
+    "judul": "Mazmur 123:1-4",
+    "nama": "Mazmur",
+    "no_kitab": "19",
+    "pasal": "123",
+    "judul_pasal": "Berharap kepada anugerah TUHAN",
+    "ayat_ayat": [
+      {
+        "ayat": "1",
+        "isi": "Nyanyian ziarah. Kepada-Mu aku melayangkan mataku, ya Engkau yang bersemayam di sorga."
+      },
+      {
+        "ayat": "2",
+        "isi": "Lihat, seperti mata para hamba laki-laki memandang kepada tangan tuannya, seperti mata hamba perempuan memandang kepada tangan nyonyanya, demikianlah mata kita memandang kepada TUHAN, Allah kita, sampai Ia mengasihani kita."
+      },
+      {
+        "ayat": "3",
+        "isi": "Kasihanilah kami, ya TUHAN, kasihanilah kami, sebab kami sudah cukup kenyang dengan penghinaan;"
+      },
+      {
+        "ayat": "4",
+        "isi": "jiwa kami sudah cukup kenyang dengan olok-olok orang-orang yang merasa aman, dengan penghinaan orang-orang yang sombong."
+      }
+    ]
+  }
+}

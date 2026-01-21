@@ -1,0 +1,23 @@
+{
+  "kitab": {
+    "judul": "Mazmur 133:1-3",
+    "nama": "Mazmur",
+    "no_kitab": "19",
+    "pasal": "133",
+    "judul_pasal": "Persaudaraan yang rukun",
+    "ayat_ayat": [
+      {
+        "ayat": "1",
+        "isi": "Nyanyian ziarah Daud. Sungguh, alangkah baiknya dan indahnya, apabila saudara-saudara diam bersama dengan rukun!"
+      },
+      {
+        "ayat": "2",
+        "isi": "Seperti minyak yang baik di atas kepala meleleh ke janggut, yang meleleh ke janggut Harun dan ke leher jubahnya."
+      },
+      {
+        "ayat": "3",
+        "isi": "Seperti embun gunung Hermon yang turun ke atas gunung-gunung Sion. Sebab ke sanalah TUHAN memerintahkan berkat, kehidupan untuk selama-lamanya."
+      }
+    ]
+  }
+}

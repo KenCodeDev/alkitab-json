@@ -1,0 +1,23 @@
+{
+  "kitab": {
+    "judul": "Mazmur 134:1-3",
+    "nama": "Mazmur",
+    "no_kitab": "19",
+    "pasal": "134",
+    "judul_pasal": "Puji-pujian pada malam hari",
+    "ayat_ayat": [
+      {
+        "ayat": "1",
+        "isi": "Nyanyian ziarah. Mari, pujilah TUHAN, hai semua hamba TUHAN, yang datang melayani di rumah TUHAN pada waktu malam."
+      },
+      {
+        "ayat": "2",
+        "isi": "Angkatlah tanganmu ke tempat kudus dan pujilah TUHAN!"
+      },
+      {
+        "ayat": "3",
+        "isi": "Kiranya TUHAN yang menjadikan langit dan bumi, memberkati engkau dari Sion."
+      }
+    ]
+  }
+}
