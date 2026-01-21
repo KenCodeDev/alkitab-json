@@ -1,0 +1,35 @@
+{
+  "kitab": {
+    "judul": "Mazmur 150:1-6",
+    "nama": "Mazmur",
+    "no_kitab": "19",
+    "pasal": "150",
+    "judul_pasal": "Haleluya",
+    "ayat_ayat": [
+      {
+        "ayat": "1",
+        "isi": "Haleluya! Pujilah Allah dalam tempat kudus-Nya! Pujilah Dia dalam cakrawala-Nya yang kuat!"
+      },
+      {
+        "ayat": "2",
+        "isi": "Pujilah Dia karena segala keperkasaan-Nya, pujilah Dia sesuai dengan kebesaran-Nya yang hebat!"
+      },
+      {
+        "ayat": "3",
+        "isi": "Pujilah Dia dengan tiupan sangkakala, pujilah Dia dengan gambus dan kecapi!"
+      },
+      {
+        "ayat": "4",
+        "isi": "Pujilah Dia dengan rebana dan tari-tarian, pujilah Dia dengan permainan kecapi dan seruling!"
+      },
+      {
+        "ayat": "5",
+        "isi": "Pujilah Dia dengan ceracap yang berdenting, pujilah Dia dengan ceracap yang berdentang!"
+      },
+      {
+        "ayat": "6",
+        "isi": "Biarlah segala yang bernafas memuji TUHAN! Haleluya!"
+      }
+    ]
+  }
+}
