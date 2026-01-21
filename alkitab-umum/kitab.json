@@ -1,0 +1,400 @@
+{
+	"kitab": [
+		{
+			"no": 1,
+			"singkatan": "Kej",
+			"nama": "Kejadian",
+			"totalPasal": 50
+		},
+		{
+			"no": 2,
+			"singkatan": "Kel",
+			"nama": "Keluaran",
+			"totalPasal": 40
+		},
+		{
+			"no": 3,
+			"singkatan": "Ima",
+			"nama": "Imamat",
+			"totalPasal": 27
+		},
+		{
+			"no": 4,
+			"singkatan": "Bil",
+			"nama": "Bilangan",
+			"totalPasal": 36
+		},
+		{
+			"no": 5,
+			"singkatan": "Ula",
+			"nama": "Ulangan",
+			"totalPasal": 34
+		},
+		{
+			"no": 6,
+			"singkatan": "Yos",
+			"nama": "Yosua",
+			"totalPasal": 24
+		},
+		{
+			"no": 7,
+			"singkatan": "Hak",
+			"nama": "Hakim-hakim",
+			"totalPasal": 21
+		},
+		{
+			"no": 8,
+			"singkatan": "Rut",
+			"nama": "Rut",
+			"totalPasal": 4
+		},
+		{
+			"no": 9,
+			"singkatan": "1 Sam",
+			"nama": "1 Samuel",
+			"totalPasal": 31
+		},
+		{
+			"no": 10,
+			"singkatan": "2 Sam",
+			"nama": "2 Samuel",
+			"totalPasal": 24
+		},
+		{
+			"no": 11,
+			"singkatan": "1 Raj",
+			"nama": "1 Raja-Raja",
+			"totalPasal": 22
+		},
+		{
+			"no": 12,
+			"singkatan": "2 Raj",
+			"nama": "2 Raja-Raja",
+			"totalPasal": 25
+		},
+		{
+			"no": 13,
+			"singkatan": "1 Taw",
+			"nama": "1 Tawarikh",
+			"totalPasal": 29
+		},
+		{
+			"no": 14,
+			"singkatan": "2 Taw",
+			"nama": "2 Tawarikh",
+			"totalPasal": 36
+		},
+		{
+			"no": 15,
+			"singkatan": "Ezr",
+			"nama": "Ezra",
+			"totalPasal": 10
+		},
+		{
+			"no": 16,
+			"singkatan": "Neh",
+			"nama": "Nehemia",
+			"totalPasal": 13
+		},
+		{
+			"no": 17,
+			"singkatan": "Est",
+			"nama": "Ester",
+			"totalPasal": 10
+		},
+		{
+			"no": 18,
+			"singkatan": "Ayb",
+			"nama": "Ayub",
+			"totalPasal": 42
+		},
+		{
+			"no": 19,
+			"singkatan": "Maz",
+			"nama": "Mazmur",
+			"totalPasal": 150
+		},
+		{
+			"no": 20,
+			"singkatan": "Ams",
+			"nama": "Amsal",
+			"totalPasal": 31
+		},
+		{
+			"no": 21,
+			"singkatan": "Pkh",
+			"nama": "Pengkhotbah",
+			"totalPasal": 12
+		},
+		{
+			"no": 22,
+			"singkatan": "Kid",
+			"nama": "Kidung Agung",
+			"totalPasal": 8
+		},
+		{
+			"no": 23,
+			"singkatan": "Yes",
+			"nama": "Yesaya",
+			"totalPasal": 66
+		},
+		{
+			"no": 24,
+			"singkatan": "Yer",
+			"nama": "Yeremia",
+			"totalPasal": 52
+		},
+		{
+			"no": 25,
+			"singkatan": "Rat",
+			"nama": "Ratapan",
+			"totalPasal": 5
+		},
+		{
+			"no": 26,
+			"singkatan": "Yeh",
+			"nama": "Yehezkiel",
+			"totalPasal": 48
+		},
+		{
+			"no": 27,
+			"singkatan": "Dan",
+			"nama": "Daniel",
+			"totalPasal": 12
+		},
+		{
+			"no": 28,
+			"singkatan": "Hos",
+			"nama": "Hosea",
+			"totalPasal": 14
+		},
+		{
+			"no": 29,
+			"singkatan": "Yoe",
+			"nama": "Yoel",
+			"totalPasal": 3
+		},
+		{
+			"no": 30,
+			"singkatan": "Amo",
+			"nama": "Amos",
+			"totalPasal": 9
+		},
+		{
+			"no": 31,
+			"singkatan": "Oba",
+			"nama": "Obaja",
+			"totalPasal": 1
+		},
+		{
+			"no": 32,
+			"singkatan": "Yun",
+			"nama": "Yunus",
+			"totalPasal": 4
+		},
+		{
+			"no": 33,
+			"singkatan": "Mik",
+			"nama": "Mikha",
+			"totalPasal": 7
+		},
+		{
+			"no": 34,
+			"singkatan": "Nah",
+			"nama": "Nahum",
+			"totalPasal": 3
+		},
+		{
+			"no": 35,
+			"singkatan": "Hab",
+			"nama": "Habakuk",
+			"totalPasal": 3
+		},
+		{
+			"no": 36,
+			"singkatan": "Zef",
+			"nama": "Zefanya",
+			"totalPasal": 3
+		},
+		{
+			"no": 37,
+			"singkatan": "Hag",
+			"nama": "Hagai",
+			"totalPasal": 2
+		},
+		{
+			"no": 38,
+			"singkatan": "Zak",
+			"nama": "Zakharia",
+			"totalPasal": 14
+		},
+		{
+			"no": 39,
+			"singkatan": "Mal",
+			"nama": "Maleakhi",
+			"totalPasal": 4
+		},
+		{
+			"no": 40,
+			"singkatan": "Mat",
+			"nama": "Matius",
+			"totalPasal": 28
+		},
+		{
+			"no": 41,
+			"singkatan": "Mar",
+			"nama": "Markus",
+			"totalPasal": 16
+		},
+		{
+			"no": 42,
+			"singkatan": "Luk",
+			"nama": "Lukas",
+			"totalPasal": 24
+		},
+		{
+			"no": 43,
+			"singkatan": "Yoh",
+			"nama": "Yohanes",
+			"totalPasal": 21
+		},
+		{
+			"no": 44,
+			"singkatan": "Kis",
+			"nama": "Kisah Para Rasul",
+			"totalPasal": 28
+		},
+		{
+			"no": 45,
+			"singkatan": "Rom",
+			"nama": "Roma",
+			"totalPasal": 16
+		},
+		{
+			"no": 46,
+			"singkatan": "1 Kor",
+			"nama": "1 Korintus",
+			"totalPasal": 16
+		},
+		{
+			"no": 47,
+			"singkatan": "2 Kor",
+			"nama": "2 Korintus",
+			"totalPasal": 13
+		},
+		{
+			"no": 48,
+			"singkatan": "Gal",
+			"nama": "Galatia",
+			"totalPasal": 6
+		},
+		{
+			"no": 49,
+			"singkatan": "Efe",
+			"nama": "Efesus",
+			"totalPasal": 6
+		},
+		{
+			"no": 50,
+			"singkatan": "Flp",
+			"nama": "Filipi",
+			"totalPasal": 4
+		},
+		{
+			"no": 51,
+			"singkatan": "Kol",
+			"nama": "Kolose",
+			"totalPasal": 4
+		},
+		{
+			"no": 52,
+			"singkatan": "1 Tes",
+			"nama": "1 Tesalonika",
+			"totalPasal": 5
+		},
+		{
+			"no": 53,
+			"singkatan": "2 Tes",
+			"nama": "2 Tesalonika",
+			"totalPasal": 3
+		},
+		{
+			"no": 54,
+			"singkatan": "1 Tim",
+			"nama": "1 Timotius",
+			"totalPasal": 6
+		},
+		{
+			"no": 55,
+			"singkatan": "2 Tim",
+			"nama": "2 Timotius",
+			"totalPasal": 4
+		},
+		{
+			"no": 56,
+			"singkatan": "Tit",
+			"nama": "Titus",
+			"totalPasal": 3
+		},
+		{
+			"no": 57,
+			"singkatan": "Flm",
+			"nama": "Filemon",
+			"totalPasal": 1
+		},
+		{
+			"no": 58,
+			"singkatan": "Ibr",
+			"nama": "Ibrani",
+			"totalPasal": 13
+		},
+		{
+			"no": 59,
+			"singkatan": "Yak",
+			"nama": "Yakobus",
+			"totalPasal": 5
+		},
+		{
+			"no": 60,
+			"singkatan": "1 Pet",
+			"nama": "1 Petrus",
+			"totalPasal": 5
+		},
+		{
+			"no": 61,
+			"singkatan": "2 Pet",
+			"nama": "2 Petrus",
+			"totalPasal": 3
+		},
+		{
+			"no": 62,
+			"singkatan": "1 Yoh",
+			"nama": "1 Yohanes",
+			"totalPasal": 5
+		},
+		{
+			"no": 63,
+			"singkatan": "2 Yoh",
+			"nama": "2 Yohanes",
+			"totalPasal": 1
+		},
+		{
+			"no": 64,
+			"singkatan": "3 Yoh",
+			"nama": "3 Yohanes",
+			"totalPasal": 1
+		},
+		{
+			"no": 65,
+			"singkatan": "Yud",
+			"nama": "Yudas",
+			"totalPasal": 1
+		},
+		{
+			"no": 66,
+			"singkatan": "Wah",
+			"nama": "Wahyu",
+			"totalPasal": 22
+		}
+	]
+}
